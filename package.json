@@ -35,5 +35,13 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "mocha": "~1.14.0",
     "sinon": "^1.9.1"
-  }
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weiwe/iris_track.git"
+  },
+  "homepage": "https://github.com/weiwe/iris_track.git"
 }
